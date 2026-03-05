@@ -1,2 +1,5 @@
 # sanctisarchivum
 Test Project
+theme: jekyll-theme-minimal
+title: archivum's homepage
+description: testing this thing because i'll crash out
